@@ -10,7 +10,7 @@ Find a game, find players and book a court. Hecha en México, lanza en Cancún e
 
 ## Datos abiertos / Open data
 
-[**idimetrix/canchas-mexico**](https://github.com/idimetrix/canchas-mexico) es el conjunto de datos abierto de canchas de raqueta en México, construido sobre OpenStreetMap (ODbL 1.0). Datos de OpenStreetMap © colaboradores de OpenStreetMap.
+[**meetandplaymx/canchas-mexico**](https://github.com/meetandplaymx/canchas-mexico) es el conjunto de datos abierto de canchas de raqueta en México, construido sobre OpenStreetMap (ODbL 1.0). Datos de OpenStreetMap © colaboradores de OpenStreetMap.
 
 An open dataset of racquet-sport courts in Mexico built on OpenStreetMap. Cite "© OpenStreetMap contributors".
 
