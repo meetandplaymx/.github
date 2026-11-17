@@ -16,4 +16,4 @@ An open dataset of racquet-sport courts in Mexico built on OpenStreetMap. Cite "
 
 ## Síguenos / Follow
 
-[X](https://x.com/meetandplaymx) · [LinkedIn](https://www.linkedin.com/company/144095962/) · [Instagram](https://www.instagram.com/meetandplay.mx/)
+[X](https://x.com/meetandplaymx) · [LinkedIn](https://www.linkedin.com/company/144095962/)
