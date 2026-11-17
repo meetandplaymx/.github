@@ -1,20 +1,28 @@
 # MeetAndPlay
 
-**Encuentra partido, jugadores y cancha de pádel, tenis y pickleball.**
-Find a game, find players and book a court. Hecha en México. Beta cerrada abierta ahora en Cancún (gratis), lanzamiento público en diciembre. / Closed beta is open now in Cancún (free); public launch in December; Product Hunt on Dec 10.
+**Encuentra partido de pádel, tenis y pickleball en Cancún, a tu nivel.**
 
-- Únete a la beta / Join the beta: [meetandplay.mx/beta](https://meetandplay.mx/beta?utm_source=github&utm_medium=referral&utm_campaign=profile)
-- Sitio web / Website: [meetandplay.mx](https://meetandplay.mx)
-- Directorio de canchas / Court directory: [meetandplay.mx/canchas](https://meetandplay.mx/canchas)
-- Reporte del Pádel en México 2026: [meetandplay.mx/reporte-padel-mexico](https://meetandplay.mx/reporte-padel-mexico)
-- Contacto / Contact: [hola@meetandplay.mx](mailto:hola@meetandplay.mx)
+Lo que puedes hacer hoy:
 
-## Datos abiertos / Open data
+- [Buscar cancha en el directorio](https://meetandplay.mx/canchas?utm_source=github&utm_medium=referral&utm_campaign=profile)
+- [Hacer el test de nivel de pádel](https://meetandplay.mx/test-nivel-padel?utm_source=github&utm_medium=referral&utm_campaign=profile)
+- [Pedir tu lugar en la beta de Cancún](https://meetandplay.mx/beta?utm_source=github&utm_medium=referral&utm_campaign=profile)
 
-[**meetandplaymx/canchas-mexico**](https://github.com/meetandplaymx/canchas-mexico) es el conjunto de datos abierto de canchas de raqueta en México, construido sobre OpenStreetMap (ODbL 1.0). Datos de OpenStreetMap © colaboradores de OpenStreetMap.
+En Cancún, el pádel cuenta con 10 clubes y 62 canchas; entre pádel, tenis y pickleball son 13 clubes y 71 canchas.
 
-An open dataset of racquet-sport courts in Mexico built on OpenStreetMap. Cite "© OpenStreetMap contributors".
+**Estado:** beta cerrada abierta en Cancún, gratis. Lanzamiento público en diciembre.
+**Contacto:** [hola@meetandplay.mx](mailto:hola@meetandplay.mx)
 
-## Síguenos / Follow
+[X](https://x.com/meetandplaymx) · [YouTube](https://www.youtube.com/@meetandplaymx) · [Facebook](https://www.facebook.com/profile.php?id=61596239573285) · [LinkedIn](https://www.linkedin.com/company/meetandplay)
 
-[X](https://x.com/meetandplaymx) · [LinkedIn](https://www.linkedin.com/company/144095962/)
+Datos abiertos: [canchas-mexico](https://github.com/meetandplaymx/canchas-mexico), canchas de raqueta en México sobre OpenStreetMap (ODbL).
+
+---
+
+**Find a padel, tennis or pickleball game in Cancún, at your level.**
+
+What you can do today: [browse the court directory](https://meetandplay.mx/canchas?utm_source=github&utm_medium=referral&utm_campaign=profile), [take the padel level test](https://meetandplay.mx/test-nivel-padel?utm_source=github&utm_medium=referral&utm_campaign=profile), [ask for a beta place in Cancún](https://meetandplay.mx/beta?utm_source=github&utm_medium=referral&utm_campaign=profile).
+
+Padel in Cancún: 10 clubs and 62 courts; across padel, tennis and pickleball: 13 clubs and 71 courts.
+
+**Status:** closed beta open in Cancún, free. Public launch in December. Contact: [hola@meetandplay.mx](mailto:hola@meetandplay.mx)
